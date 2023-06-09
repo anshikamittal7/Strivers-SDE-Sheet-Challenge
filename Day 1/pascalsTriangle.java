@@ -1,3 +1,8 @@
+import java.io.*;
+import java.util.* ;
+
+import java.util.ArrayList;
+
 public class Solution {
 	public static ArrayList<ArrayList<Long>> printPascal(int n) {
         // Write your code here.
